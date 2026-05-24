@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "software", "programming", "developer", "API", "cloud", "artificial intelligence",
+        "machine learning", "data science", "cybersecurity", "open source", "framework",
+        "algorithm", "database", "infrastructure", "DevOps", "computing", "network",
+        "hardware", "startup", "SaaS", "platform", "code", "engineering", "tech"
+      ],
+      "domains": ["github.com", "stackoverflow.com", "techcrunch.com", "wired.com"]
+    },
+    {
+      "name": "Finance",
+      "keywords": [
+        "banking", "investment", "insurance", "loan", "premium", "policy", "stock",
+        "equity", "mutual fund", "interest rate", "credit", "debit", "portfolio",
+        "revenue", "profit", "financial", "trading", "market", "economy", "tax",
+        "budget", "asset", "liability", "mortgage", "wealth", "retirement"
+      ],
+      "domains": ["rbi.org.in", "sebi.gov.in", "moneycontrol.com", "economictimes.com"]
+    },
+    {
+      "name": "Healthcare",
+      "keywords": [
+        "hospital", "medicine", "doctor", "diagnosis", "treatment", "health", "patient",
+        "surgery", "pharmacy", "drug", "clinical", "therapy", "wellness", "nutrition",
+        "disease", "symptom", "medical", "healthcare", "vaccine", "research", "mental health",
+        "fitness", "rehabilitation", "specialist", "prescription", "laboratory"
+      ],
+      "domains": ["aiims.edu", "who.int", "webmd.com", "mayoclinic.org"]
+    },
+    {
+      "name": "Education",
+      "keywords": [
+        "university", "college", "school", "course", "learning", "student", "teacher",
+        "curriculum", "degree", "diploma", "examination", "scholarship", "research",
+        "academic", "lecture", "tutorial", "e-learning", "online course", "training",
+        "certification", "study", "knowledge", "classroom", "campus", "admission"
+      ],
+      "domains": ["coursera.org", "edx.org", "khanacademy.org", "udemy.com"]
+    },
+    {
+      "name": "E-Commerce",
+      "keywords": [
+        "shop", "buy", "sell", "product", "price", "discount", "cart", "checkout",
+        "delivery", "shipping", "order", "review", "rating", "brand", "retail",
+        "marketplace", "offer", "deal", "payment", "refund", "inventory", "merchant",
+        "customer", "subscription", "catalogue", "store"
+      ],
+      "domains": ["amazon.in", "flipkart.com", "myntra.com", "snapdeal.com"]
+    },
+    {
+      "name": "News & Media",
+      "keywords": [
+        "news", "breaking", "headline", "report", "journalist", "media", "press",
+        "editorial", "article", "interview", "opinion", "analysis", "politics",
+        "government", "election", "world", "national", "local", "broadcast",
+        "journalism", "magazine", "newspaper", "current affairs", "update"
+      ],
+      "domains": ["bbc.com", "ndtv.com", "thehindu.com", "hindustantimes.com"]
+    },
+    {
+      "name": "Travel & Tourism",
+      "keywords": [
+        "travel", "tourism", "hotel", "flight", "booking", "destination", "vacation",
+        "holiday", "tour", "resort", "visa", "passport", "itinerary", "explore",
+        "adventure", "backpacking", "cruise", "beach", "mountain", "guide",
+        "airport", "accommodation", "hostel", "sightseeing", "trip"
+      ],
+      "domains": ["makemytrip.com", "tripadvisor.com", "booking.com", "airbnb.com"]
+    },
+    {
+      "name": "Government & Legal",
+      "keywords": [
+        "government", "ministry", "department", "policy", "regulation", "law", "legal",
+        "act", "bill", "parliament", "legislation", "court", "judge", "attorney",
+        "compliance", "license", "permit", "certificate", "public service", "civic",
+        "municipality", "authority", "rights", "constitution", "judiciary"
+      ],
+      "domains": ["india.gov.in", "mca.gov.in", "incometax.gov.in", "nic.in"]
+    }
+  ]
+}
