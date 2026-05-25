@@ -1,0 +1,32 @@
+# Sample URLs for testing the Web Crawling & Categorization System
+# One URL per line. Lines starting with # are ignored.
+
+# Technology
+https://github.com
+https://stackoverflow.com
+https://techcrunch.com
+
+# Finance
+https://www.moneycontrol.com
+https://economictimes.indiatimes.com
+
+# Healthcare
+https://www.who.int
+https://www.mayoclinic.org
+
+# Education
+https://www.coursera.org
+https://www.khanacademy.org
+
+# News & Media
+https://www.bbc.com
+https://www.ndtv.com
+
+# E-Commerce
+https://www.flipkart.com
+
+# Travel
+https://www.tripadvisor.com
+
+# Government
+https://www.india.gov.in
